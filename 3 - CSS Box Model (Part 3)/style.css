@@ -1,0 +1,23 @@
+body{
+    margin:0px;
+}
+
+
+.blockElement{
+    background-color: aqua;
+    width: 400px;
+    padding: 20px;
+    border:10px solid black;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.inlineElement{
+    background-color: red;
+    /* width: 500px; */
+    /* padding: 25px; */
+    border: 20px solid green;
+    margin: 50px;
+
+   /* in inline only left and right --> border ,padding and margin will be applied*/
+}
