@@ -1,0 +1,14 @@
+body{
+   margin:0px;
+}
+
+.boxParent{
+    background-color: violet;
+    height: 200px;
+}
+
+.boxChild{
+    background-color: gray;
+    width: 50%;
+    height: 50%;
+}
