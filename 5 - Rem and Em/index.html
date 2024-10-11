@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- 1em = parent ka size in pixel -->
+    <!-- 1. if we want to set font-size in em unit,it will consider his parent fontsize as 1em, 
+         according to that it will calculate the font size.
+
+    2. but, if we want to set padding,width etc in em unit, 
+    it will consider his own font-size as 1em, and calculate according to that.
+
+
+    3. There is another unit called rem, it will consider html/root as 1rem,
+     according to that it will calculate. -->
+     
+    <section>
+      <div class="child">Hello World</div>
+    </section>
+  </body>
+</html>
