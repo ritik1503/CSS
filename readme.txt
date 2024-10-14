@@ -33,4 +33,5 @@ Note:-
     5- We use inset to give styling from top, bottom, left and right  
     6 - for relative, element apne position se top, bottom , left and right krta h
     7 - for absolute, wo top se leta h irrespective of element position
+    8 - Position property is easy
 
