@@ -1,0 +1,23 @@
+.absolutee{
+    position:absolute;
+    background-color: green;
+    top: 18px;
+}
+
+.parent-absolute{
+    position: absolute;
+    top: 20px;
+    background-color:yellow;
+}
+
+.relativee{
+    position:fixed;
+    top: 5px;
+    background-color: orange;
+}
+
+.parent-relative{
+    position: absolute;
+    top: 20px;
+    background-color:red;
+}
